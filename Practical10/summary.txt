@@ -1,0 +1,1 @@
+Through the comparison of the three sequences, I found that the difference between human and mouse is indeed relatively small. The difference between human protein and mouse protein in edit_DIS is quite small, which may be the reason why mice are often used for experiments

@@ -1,0 +1,1 @@
+We first completed the construction of the protein matrix, then searched the BLOSUM scoring matrix to find the nearest integer, then added it to our scoring vector, counted the same sequence, and finally output our score calculation results.
